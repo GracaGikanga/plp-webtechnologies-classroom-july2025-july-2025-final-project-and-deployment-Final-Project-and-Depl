@@ -40,7 +40,7 @@ script3.js -contains js codes for kids section
 
 ## 🌍 Deployment
 This project is deployed on **Netlify**.  
-🔗 Live site:(https://drip-district.netlify.app/)
+🔗 Live site:(https://drip-districtt.netlify.app/)
 
 
 ## 🌱 Future Enhancements
